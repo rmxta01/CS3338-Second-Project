@@ -1,0 +1,39 @@
+commit e4f163dd9de3ea123e78eb2bfb57af0611beb10b
+Merge: b7acdb2 e234d0f
+Author: rmata12@calstatela.edu <rmata12@calstatela.edu>
+Date:   Thu Feb 5 23:12:52 2026 -0800
+
+    Fixed merge conflict in index.html
+
+commit e234d0f4aeb5ac1d26c4ab214ed5e00a52cec5a1
+Author: rmata12@calstatela.edu <rmata12@calstatela.edu>
+Date:   Thu Feb 5 23:11:06 2026 -0800
+
+    Added favorite game
+
+commit b7acdb24243f224a209596b6a2fcb112045a17a0
+Author: rmata12@calstatela.edu <rmata12@calstatela.edu>
+Date:   Thu Feb 5 23:09:14 2026 -0800
+
+    Added favorite food
+
+commit bc9b53affe9ab94f8b6ea6632a91ca02f648556c
+Merge: 1d2bfc0 e9c5dda
+Author: rmxta01 <rmata12@calstatela.edu>
+Date:   Thu Feb 5 23:06:31 2026 -0800
+
+    Merge pull request #1 from rmxta01/info-fill
+    
+    Filled in blanks on index.html
+
+commit e9c5dda99fcc74e0ad12a52f5a56e979e07bfd0d
+Author: rmata12@calstatela.edu <rmata12@calstatela.edu>
+Date:   Thu Feb 5 23:05:08 2026 -0800
+
+    Filled in blanks on index.html
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
